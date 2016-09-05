@@ -1,0 +1,46 @@
+# event_flag = 1 then clash otherwise rc
+#time_slot = starting time * 2
+#date_slot = 8 or 9
+
+#college name and class of the participant is not stored
+#if slot_booked then cannot login again
+
+---install openpyxl to read data from the excel files
+$sudo pip install -U setuptools
+$ sudo pip install pyexcel-ods
+--install  ezodf module in python
+ a = my_data[10:]
+ a = a.replace("}","")
+
+pip install MySQL-python    
+
+
+back button in pages    
+show all slot not working error in java script
+
+
+things to remember
+always create superuser and exceldata after deleting database
+no of rows in your excelsheet before reading
+
+
+-----------------------READ the contents written below-----------------------------------------------------------------------------------------------------------
+
+
+install mysql ezodf=0.3.2 python = 2.7.6 django = 1.8.3
+link to install mysql   https://www.digitalocean.com/community/tutorials/how-to-use-mysql-or-mariadb-with-your-django-application-on-ubuntu-14-04
+projectname = django_osb
+user = pisb_credenz
+password = pisb_clash_rc@2016
+after installing mysql 
+run the following command 
+pip install MySQL-python
+
+
+create superuser
+create slot object
+create excel object 
+read files
+enter url in mails
+read all slots
+send mail
